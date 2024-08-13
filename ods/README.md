@@ -1,0 +1,3 @@
+# ODS (osu! ds beatmap)
+This folder hosts a kaitai script for parsing the ODS format, a beatmap format used for the old DS port of osu!, which can be found [here](https://github.com/echojc/osu-ds). This is a very obscure file format, as the existence of the port is relatively unknown, and even less people know about the format/how it works.
+There is a sample ODS file in this folder aswell, which has been generated from a 2013 build of osu! with the `Export to DS` function patched back in.

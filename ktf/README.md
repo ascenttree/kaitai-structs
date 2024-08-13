@@ -1,0 +1,3 @@
+# KTF (Kaede Translation File)
+This folder hosts a kaitai script for parsing the KTF format, a translation file format developed primarily(?) for [AkemiSwitcher](https://github.com/osu-katakuna/AkemiSwitcher). This file format is very obscure (from what I know) and I don't think is used anywhere else.
+There is a sample KTF file in this folder, which is the same one used in the official build of AkemiSwitcher
